@@ -45,7 +45,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Ajout de polices
+## Ajout de polices
 
 [Font Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 
@@ -92,7 +92,7 @@ const config: Config = {
 export default config;
 ```
 
-Ajout de couleurs
+## Ajout de couleurs
 
 [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
 
@@ -116,6 +116,6 @@ const config: Config = {
 export default config;
 ```
 
-Transformez les SVG en composants React
+## Transformez les SVG en composants React
 
 [SVGR - Transforms SVG into React Components. - SVGR](https://react-svgr.com/playground/)
