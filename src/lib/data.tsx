@@ -1,6 +1,14 @@
 import { FramerMotionIcon, NextJSIcon, NextThemesIcon, ReactIcon, TailwindCSSIcon, TypeScriptIcon } from "@/components/Icons";
 
-export const TechData = [
+interface TechDataProps {
+    id: number
+    title: string
+    subtitle: string
+    icon: any
+    url: string
+}
+
+export const TechData: TechDataProps[] = [
     {
         "id": 1,
         "title": "Next.js 14",
